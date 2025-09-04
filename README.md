@@ -14,8 +14,6 @@ This repository provides a complete workflow for training, evaluating, and compa
 - [Performance and Results](#performance-and-results)
 - [Troubleshooting](#troubleshooting)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
